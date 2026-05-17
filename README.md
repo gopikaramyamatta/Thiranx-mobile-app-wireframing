@@ -1,6 +1,6 @@
 # UI/UX Design Projects Portfolio
 
-## Student Name: [Your Name]
+## Student Name: [Gopika Ramya Matta]
 ## Date: May 17, 2026
 
 ---
